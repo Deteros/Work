@@ -28,6 +28,25 @@ LVL7:
 find / -size 33c -user bandit7 -group bandit6
 pass: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
+LVL8
+grep millionth
+pass: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+
+LVL9:
+sort data.txt | uniq -u
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+LVL10:
+cat data.txt grep "==="
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+
+
+
+
+
+
 
 
 
