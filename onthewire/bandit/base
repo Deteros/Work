@@ -1,0 +1,35 @@
+LVL0
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+user: bandit0
+pass: bandit0
+
+LVL1
+pass found: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+
+LVL2
+pass found: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+LVL3
+pass found: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+LVL4
+pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+LVL5
+pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+LVL6: 
+fin the file : find -type f -size 1033c ! -executable
+pass: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+LVL7:
+find / -size 33c -user bandit7 -group bandit6
+pass: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+
+
+
+
+
